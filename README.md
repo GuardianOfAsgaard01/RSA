@@ -1,2 +1,2 @@
 # RSA
-RSA implementation for see how it's work
+Simple RSA implementation, written for education.
